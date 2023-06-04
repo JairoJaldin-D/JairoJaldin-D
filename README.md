@@ -9,6 +9,15 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+<br>
+
+- I am 19 years old
+- A passionate Self-taught Front-end developer
+- Playing League of Legends and Cs at spare time
+- Currently learning Web Development by Self
+
+
+
 <!--
 **JairoJaldin-D/JairoJaldin-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
