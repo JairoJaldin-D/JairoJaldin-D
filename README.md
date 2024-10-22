@@ -12,9 +12,8 @@
 <br>
 
 - I am 20 years old
-- A passionate Self-taught Front-end developer
-- Playing League of Legends and Cs at spare time
-- Currently learning Web Development by Self
+
+
 
 <br><br>
 
